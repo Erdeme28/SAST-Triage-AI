@@ -1,0 +1,30 @@
+# Python Virtual Environments
+venv/
+env/
+Scripts/
+
+# Python Cache and Compiled Files
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# IDE: Visual Studio and VS Code
+.vs/
+.vscode/
+*.user
+*.suo
+*.sln.docstates
+
+# Environment and Secrets
+.env
+.env.local
+secrets.json
+
+# Operating System Files
+Thumbs.db
+.DS_Store
+
+# Frontend Dependencies
+node_modules/
+dist/

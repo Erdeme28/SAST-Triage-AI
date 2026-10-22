@@ -28,3 +28,9 @@ Thumbs.db
 # Frontend Dependencies
 node_modules/
 dist/
+
+# Logs
+logs/
+*.log
+*.log.*
+*.jsonl
